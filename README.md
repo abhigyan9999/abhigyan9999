@@ -1,3 +1,8 @@
-Hello there! 👋 My name is Abhigyan Vishwakarma and I am a soon-to-be graduate of St. Aloysius College in Jabalpur.
-Currently, I am enrolled in an aspiring full stack development course with UpGrad and am passionate about creating innovative web solutions using various technologies.
-I would love to connect with others and explore exciting opportunities together! #FullStackDeveloper #WebDevelopment 🚀
+Skills
+Languages: HTML, CSS, JavaScript, Java,
+Front-end: React.js, Bootstrap, HTML, CSS - Back-end: Node.js, Express.js, MongoDB
+Technologies & Tools: Git, GitHub.
+Other Skills: REST APIs, Agile,
+Full Stack Developer with practical experience building web applications using
+JavaScript, React, Node.js, MongoDB, and REST APIs.Capable of developing and maintaining both client-side interfaces
+and server-side functionality
