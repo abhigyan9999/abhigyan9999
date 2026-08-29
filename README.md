@@ -23,10 +23,12 @@
 <br/>
 
 <!-- PHASE 2: STATS CARDS -->
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhigyan9999&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhigyan9999&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="Top Languages" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhigyan9999&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhigyan9999&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<br/><br/>
+<br/>
 
 <!-- PROFILE VIEWS -->
 <p align="center">
