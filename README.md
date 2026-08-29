@@ -2,9 +2,9 @@
 
 <!-- PHASE 1: ANIMATED TERMINAL BANNER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhigyan9999/abhigyan9999/main/dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhigyan9999/abhigyan9999/main/light.svg?v=2">
-  <img alt="Abhigyan Vishwakarma Banner" src="https://raw.githubusercontent.com/abhigyan9999/abhigyan9999/main/dark.svg?v=2" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhigyan9999/abhigyan9999/main/dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhigyan9999/abhigyan9999/main/light.svg?v=3">
+  <img alt="Abhigyan Vishwakarma Banner" src="https://raw.githubusercontent.com/abhigyan9999/abhigyan9999/main/dark.svg?v=3" width="100%">
 </picture>
 
 <br/><br/>
